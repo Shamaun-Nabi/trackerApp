@@ -1,0 +1,5 @@
+{
+  "name": "TaskTimeTracker",
+  "description": "A full-stack monthly task time tracker to manage tasks, track billable/non-billable hours, and generate monthly reports with CSV export.",
+  "requestFramePermissions": []
+}
