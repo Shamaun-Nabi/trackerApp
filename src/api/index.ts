@@ -3,7 +3,7 @@ import { createServer as createViteServer } from "vite";
 import path from "path";
 import { fileURLToPath } from "url";
 import mongoose from "mongoose";
-import { TaskModel, TimeEntryModel } from "./models.ts";
+import { TaskModel, TimeEntryModel } from "../../models.ts";
 import dotenv from "dotenv";
 
 // Load environment variables from .env file
